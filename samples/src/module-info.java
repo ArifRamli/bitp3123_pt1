@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author arifo
+ *
+ */
+module samples {
+}
